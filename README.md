@@ -1,4 +1,5 @@
 # DiffQR
-
-
- ![org](imgs/linkedin.jpeg) ![dif](imgs/diffusion_qr.png)
+<p float="left">
+  <img src="imgs/linkedin.jpeg" width="100" /> 
+  <img src="imgs/diffusion_qr.png" width="100"/>
+</p>
